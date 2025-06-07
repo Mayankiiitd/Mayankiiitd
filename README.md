@@ -55,7 +55,7 @@
 
 ### 🏆 Achievements
 - 🥇 Finalist @ HackTU 6.0 (Thapar University)
-- 🧩 Solved **550+ DSA problems** across platforms (GFG Rank 876, Ninja Dominator)
+- 🧩 Solved **550+ DSA problems** across platforms (GFG, Ninja Dominator)
 - 🥇 5x **Rank 1** @ college coding leagues
 - 🏅 **64+ badges** Holder in data structures & algorithms
 
