@@ -39,7 +39,7 @@
 - 🧠 Built with Flask, React, MongoDB, ML/DL (XGBoost, etc.)
 - 📈 Achieved 90%+ accuracy in predictions through testing
 
-#### 🧑‍🏫 StudyNotion *(in progress)*
+#### 🧑‍🏫 SkillNest *(in progress)*
 > A full-featured ed-tech platform for instructors and learners.  
 - 🛠️ MERN stack: React, Node, Express, MongoDB
 
