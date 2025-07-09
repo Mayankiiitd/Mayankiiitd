@@ -58,13 +58,12 @@
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Contributions
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mayankgautam&show_icons=true&theme=radical" width="48%" />
-  <br/>
-  <img src="https://streak-stats.demolab.com/?user=mayankgautam&theme=radical"/>
+  <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/github-contributions-2025.png" width="100%" />
 </p>
+
 
 
 ---
