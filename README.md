@@ -58,6 +58,16 @@
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankgautam&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgautam&layout=compact&theme=radical" width="48%" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=mayankgautam&theme=radical"/>
+</p>
+
+---
 ### 📚 Featured Projects
 
 #### 🔬 [Genorisk.Ai](https://github.com/Karan54820/GenoriskAI)
@@ -79,11 +89,12 @@
 
 ---
 
-### 🏆 Achievements
-- 🥇 Finalist @ HackTU 6.0 (Thapar University)
-- 🧩 Solved **550+ DSA problems** across platforms (GFG, Ninja Dominator)
-- 🥇 5x **Rank 1** @ college coding leagues
-- 🏅 **64+ badges** Holder in data structures & algorithms
+## 🏆 Achievements
+
+- 🥉 Finalist @ **HackTU 6.0** (Thapar University)
+- 🍀 Solved **550+ DSA problems** across platforms (GFG, Ninja Dominator)
+- 🥇 **5x Rank 1** in college coding leagues
+- 🏅 Holder of **64+ badges** in Data Structures & Algorithms
 
 ---
 
