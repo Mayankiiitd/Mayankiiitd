@@ -59,7 +59,6 @@
 ---
 
 ## 📊 GitHub Contributions
-
 <p align="center">
   <img src="https://raw.githubusercontent.com/your-username/your-repo/main/assets/github-contributions-2025.png" width="100%" />
 </p>
