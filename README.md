@@ -62,10 +62,11 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mayankgautam&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgautam&layout=compact&theme=radical" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgautam&layout=compact&theme=radical&langs_count=8&hide=python,c++,css,html" width="48%" />
   <br/>
   <img src="https://streak-stats.demolab.com/?user=mayankgautam&theme=radical"/>
 </p>
+
 
 ---
 ### 📚 Featured Projects
