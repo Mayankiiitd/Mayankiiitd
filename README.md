@@ -68,3 +68,49 @@
 - 🧑‍💻 [GitHub](https://github.com/Mayankiiitd)  
 - 🧠 [Naukri Code360 Profile](https://www.naukri.com/code360/profile/MayankIIITD)
 
+
+<p align="center">
+  <img src="https://your-image-url.com/your-banner.gif" width="600" alt="banner" />
+</p>
+
+<h1 align="center">hey there 👋</h1>
+
+### Hi, I’m Mayank Gautam.
+🎓 BTech CSE @ IIIT Delhi | Web Dev & Researcher  
+💻 Currently working on: `React`, `Flask`, `MongoDB`, `Bioinformatics Tools`
+
+---
+
+### 🚀 Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
+</p>
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mayankgautam&show_icons=true&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mayankgautam&layout=compact&theme=radical" />
+</p>
+
+---
+
+### 📌 Pinned Projects
+- 🔬 **[Genome-Diet Generator](https://github.com/mayankgautam/GenomeDiet)** - Predicts diseases & diets from gene data.
+- 📈 **[Musify](https://github.com/mayankgautam/Musify)** - Spotify clone made with HTML/CSS/JS.
+- 📚 **[Library Manager](https://github.com/mayankgautam/LibraryManager)** - Java-based admin/user system.
+
+---
+
+### 📫 Reach Me
+- 💼 [LinkedIn](https://linkedin.com/in/mayankgautam)
+- 📧 Email: `youremail@example.com`
+- 🌐 [Portfolio Website](https://your-portfolio.com)
+
